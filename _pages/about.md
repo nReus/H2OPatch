@@ -25,7 +25,7 @@ Download and Installation
 
 Download the english patch here:
 
-### [Google Drive]() || [MediaFire]() 
+[Google Drive]() || [MediaFire]() 
 
 
 ***Before installing, it is recommended you back up your game files.***
@@ -37,7 +37,7 @@ Before you play... (video playback issues on some computers)
 Some computers may have problems with video playback due to known issues in recent Nvidia GPU drivers. The audio will play but the screen will remain black.
 This affects typically older VNs that do not rely on middleware to render videos, such as H2O. This can possibly be fixed by installing the K-Lite codec pack, but Studio Frisay has not been able to get that working either. Hence, we have a work around.
 
-Refer to the instructions below:
+Refer to the instructions below (Windows 11, this also applies to Windows 10):
 
 | Image | Instruction |
 | ----------- | ----------- |
