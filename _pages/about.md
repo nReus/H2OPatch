@@ -24,9 +24,7 @@ Download and Installation
 ======
 
 Download the english patch here:
-
-[Google Drive]() || [MediaFire]() 
-
+[Google Drive]() | [MediaFire]() 
 
 ***Before installing, it is recommended you back up your game files.***
 
