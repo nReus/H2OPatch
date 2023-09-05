@@ -1,22 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Fuwanovel Thread"
+    url: https://forums.fuwanovel.net/topic/25582-studio-frisay-h2o-√-after-and-another-complete-story-edition-translation-project/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Discord"
+    url: https://discord.gg/9x4TTKz5t3    
+    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
