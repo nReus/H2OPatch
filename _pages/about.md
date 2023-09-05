@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![front](/images/h2o.png)
+![front](https://i.imgur.com/mXrCzJo.png)
 
 ### [Fuwanovel Forum Thread](https://forums.fuwanovel.net/topic/25582-studio-frisay-h2o-√-after-and-another-complete-story-edition-translation-project/)
 
@@ -25,8 +25,7 @@ Download and Installation
 
 Download the english patch here:
 
-| [Google Drive]() | [MediaFire]() |
-| ----------- | ----------- |
+### [Google Drive]() || [MediaFire]() 
 
 
 ***Before installing, it is recommended you back up your game files.***
@@ -42,13 +41,13 @@ Refer to the instructions below:
 
 | Image | Instruction |
 | ----------- | ----------- |
-| ![Editing a markdown file for a talk](/images/1_settingsIcon.png) | Open `Settings`. |
-| ![Editing a markdown file for a talk](/images/2_systemTab.png) | Go to the `System` tab. |
-| ![Editing a markdown file for a talk](/images/3_displayMenu.png) | Select the `Display` menu. |
-| ![Editing a markdown file for a talk](/images/4_graphicsMenu.png) | Select the `Graphics` menu. |
-| ![Editing a markdown file for a talk](/images/5_browseExe.png) | Select `Browse` under `Add an app`. Look for `BGI.exe` in your H2O installation. |
-| ![Editing a markdown file for a talk](/images/6_openOption.png) | Look for `Ethornell - Buriko General Interpreter ver 1.xx` in the list of programs here, click on it, then select `Options`. |
-| ![Editing a markdown file for a talk](/images/7_selectGPU.png) | Check `Power Saving` to switch the program to use your integrated GPU only, then `save`. |
+| ![Editing a markdown file for a talk](https://i.imgur.com/ATdzIkg.png) | Open `Settings`. |
+| ![Editing a markdown file for a talk](https://i.imgur.com/qPcWUol.png) | Go to the `System` tab. |
+| ![Editing a markdown file for a talk](https://i.imgur.com/F3x42JG.png) | Select the `Display` menu. |
+| ![Editing a markdown file for a talk](https://i.imgur.com/HkWebLW.png) | Select the `Graphics` menu. |
+| ![Editing a markdown file for a talk](https://i.imgur.com/WLbJ4bt.png) | Select `Browse` under `Add an app`. Look for `BGI.exe` in your H2O installation. |
+| ![Editing a markdown file for a talk](https://i.imgur.com/14bOwVf.png) | Look for `Ethornell - Buriko General Interpreter ver 1.xx` in the list of programs here, click on it, then select `Options`. |
+| ![Editing a markdown file for a talk](https://i.imgur.com/DSCV4ID.png) | Check `Power Saving` to switch the program to use your integrated GPU only, then `save`. |
 
 
 Studio Frisay
