@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "H2O √ after and another Complete story Edition - ENGLISH PATCH"
-excerpt: "About me"
+excerpt: "An English patch brought to you by Studio Frisay"
 author_profile: false
 redirect_from: 
   - /about/
@@ -20,7 +20,7 @@ Synposis
 
 *√ after and another* contains new after stories for the original heroines, Yui's and Maki's routes and several short stories.
 
-Download and Installation
+[Download and Installation](#download-and-installation)
 ======
 
 Download the english patch here:
@@ -48,7 +48,7 @@ Refer to the instructions below (Windows 11, this also applies to Windows 10):
 | ![Editing a markdown file for a talk](https://i.imgur.com/DSCV4ID.png) | Check `Power Saving` to switch the program to use your integrated GPU only, then `save`. |
 
 
-Studio Frisay
+[Studio Frisay](#studio-frisay)
 ------
 Studio Frisay is the group conducting the English translation/localization of `H2O √ after and another Complete story Edition`, and is led by Tooko.
 
