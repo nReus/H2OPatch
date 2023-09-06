@@ -26,9 +26,9 @@ Synposis
 Download the english patch here:
 [Google Drive]() | [MediaFire]() 
 
-***Before installing, it is recommended you back up your game files.***
+***This patch is intended for use on `H2O √ after and another Complete story Edition` and will not work on standalone H2O or Root. Before installing, it is recommended you back up your game files.***
 
-Using an archive extracting program, such as 7zip or WinRAR, extract the files to the game folder that contains `BGI.exe`. Overwrite any conflicting files.
+Using an archive extracting program, such as 7zip or WinRAR, extract the files to the game folder that contains `BGI.exe`. Overwrite any conflicting files. 
 
 [Video Troubleshooting](#video-troubleshooting)
 ======
