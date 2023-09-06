@@ -30,7 +30,7 @@ Download the english patch here:
 
 Using an archive extracting program, such as 7zip or WinRAR, extract the files to the game folder that contains `BGI.exe`. Overwrite any conflicting files.
 
-[Video Troubleshooting](#video-troubleshoot)
+[Video Troubleshooting](#video-troubleshooting)
 ======
 Some computers may have problems with video playback due to known issues in recent Nvidia GPU drivers. The audio will play but the screen will remain black.
 This affects typically older VNs that do not rely on middleware to render videos, such as H2O. This can possibly be fixed by installing the K-Lite codec pack, but we have not been able to get that working either. Hence, we have a work around. This works for anyone who has an integrated GPU (part of your CPU).
