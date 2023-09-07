@@ -10,15 +10,26 @@ redirect_from:
 
 ![front](https://i.imgur.com/mXrCzJo.png)
 
-### [Fuwanovel Forum Thread](https://forums.fuwanovel.net/topic/25582-studio-frisay-h2o-√-after-and-another-complete-story-edition-translation-project/)
+[Fuwanovel Forum Thread](https://forums.fuwanovel.net/topic/25582-studio-frisay-h2o-√-after-and-another-complete-story-edition-translation-project/)
+
+[Studio Frisay Discord Server](https://discord.gg/9x4TTKz5t3)
 
 Synposis
 ======
-*H2O*'s story revolves around Takuma Hirose, a blind young male junior-high school student, though the cause for his blindness is undetermined. After his mother died an unexpected death, it left a deep emotional scar on him, which caused him to become very lonely and reserved. Due to this, Takuma and his uncle move from the city out into a rural area and Takuma is enrolled into a new junior-high school. At his new school, he meets several new girls, though three of whom he gets to know the most out of anyone else. They are, the firm and obstinate Hayami Kohinata, the kind and obliging Hinata Kagura, and the cheerful and mysterious Otoha. As Takuma interacts with these girls, his medical condition gradually begins to heal.
+In H2O -Footprints in the Sand-, Hirose Takuma is a blind middle school student, though the cause for his blindness is undetermined. After his mother died unexpectedly, it left a deep emotional scar on him, causing him to become lonely and reserved. Due to this, Takuma moves from the city out into a rural area to live with his uncle and Takuma is enrolled into a new middle school. There, he meets several new girls, including the firm and obstinate Kohinata Hayami, the kind and obliging Kagura Hinata, and the cheerful and mysterious Otoha.
 
-[From [Wikipedia](en.wikipedia.org/wiki/H2O:_Footprints_in_the_Sand)]
+In √ after and another, there are new after stories for two of the heroines from H2O (Hayami and Hinata), plus new routes for Yui and Hamaji/Yukiji, the latter of which also unlocks Maki's route.
 
-*√ after and another* contains new after stories for the original heroines, Yui's and Maki's routes and several short stories.
+A version merging both games into one was later released, H2O √ after and another Complete story Edition.
+
+[H2O VNDB](https://vndb.org/v473)
+
+[√ after and another VNDB](https://vndb.org/v561)
+
+[Where to purchase](#where-to-purchase)
+======
+
+The game can be purchased legally from DMM ([https://dlsoft.dmm.co.jp/detail/mnphs_0007/](https://dlsoft.dmm.co.jp/detail/mnphs_0007/)), but a Japanese proxy/VPN may be necessary to purchase it.
 
 [Download and Installation](#download-and-installation)
 ======
@@ -50,6 +61,7 @@ Refer to the instructions below (Windows 11, this also applies to Windows 10):
 
 [Studio Frisay](#studio-frisay)
 ------
+![Studio Frisay](https://i.imgur.com/YUJqWqi.png)
 Studio Frisay is the group conducting the English translation/localization of `H2O √ after and another Complete story Edition`, and is led by Tooko.
 
 | Team member | Role |
