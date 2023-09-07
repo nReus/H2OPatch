@@ -24,7 +24,7 @@ Synposis
 ======
 
 Download the english patch here:
-[Google Drive]() | [MediaFire]() 
+[placeholder]() | [placeholder]() 
 
 ***This patch is intended for use on `H2O √ after and another Complete story Edition` and will not work on standalone H2O or Root. Before installing, it is recommended you back up your game files.***
 
@@ -55,5 +55,5 @@ Studio Frisay is the group conducting the English translation/localization of `H
 | Team member | Role |
 | ----------- | ----------- |
 | Tooko | Translation, editing, quality checking, image editing, engine modding |
-| nReus | Video editing, playback troubleshooting, logo | 
+| nReus | Video editing, playback troubleshooting, logo, this funky website | 
 
