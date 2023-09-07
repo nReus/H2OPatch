@@ -26,7 +26,7 @@ A version merging both games into one was later released, H2O √ after and anot
 
 [√ after and another VNDB](https://vndb.org/v561)
 
-[Where to purchase](#where-to-purchase)
+Where to purchase
 ======
 
 The game can be purchased legally from DMM ([https://dlsoft.dmm.co.jp/detail/mnphs_0007/](https://dlsoft.dmm.co.jp/detail/mnphs_0007/)), but a Japanese proxy/VPN may be necessary to purchase it.
