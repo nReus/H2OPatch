@@ -34,8 +34,8 @@ The game can be purchased legally from DMM ([https://dlsoft.dmm.co.jp/detail/mnp
 [Download and Installation](#download-and-installation)
 ======
 
-Download the english patch here:
-[Google Drive](https://drive.google.com/file/d/1k3Q1Ymz3v0wjSMKFk-BWAB2pMH-IGR-2/view?usp=sharing) | [MediaFire](https://www.mediafire.com/file/mofwro9ew3ypf33/) 
+Download the english patch here (*current version v1.01*):
+[Google Drive](https://drive.google.com/file/d/1k3Q1Ymz3v0wjSMKFk-BWAB2pMH-IGR-2/view?usp=sharing) | [MediaFire](https://www.mediafire.com/file/bdrly2o80alrfnz/) 
 
 ***This patch is intended for use on `H2O √ after and another Complete story Edition` and will not work on standalone H2O or Root. Before installing, it is recommended you back up your game files.***
 
