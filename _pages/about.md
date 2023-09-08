@@ -46,7 +46,7 @@ Using an archive extracting program, such as 7zip or WinRAR, extract the files t
 Some computers may have problems with video playback due to known issues in recent Nvidia GPU drivers. The audio will play but the screen will remain black.
 This affects typically older VNs that do not rely on middleware to render videos, such as H2O. This can possibly be fixed by installing the K-Lite codec pack, but we have not been able to get that working either. Hence, we have a work around. This works for anyone who has an integrated GPU (part of your CPU).
 
-Refer to the instructions below (Windows 11, this also applies to Windows 10):
+**If you have determined that you are experiencing this issue**, refer to the instructions below (Windows 11, this also applies to Windows 10):
 
 | Image | Instruction |
 | ----------- | ----------- |
@@ -62,6 +62,7 @@ Refer to the instructions below (Windows 11, this also applies to Windows 10):
 [Studio Frisay](#studio-frisay)
 ------
 ![Studio Frisay](https://i.imgur.com/YUJqWqi.png)
+
 Studio Frisay is the group conducting the English translation/localization of `H2O √ after and another Complete story Edition`, and is led by Tooko.
 
 | Team member | Role |
