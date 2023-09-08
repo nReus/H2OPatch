@@ -44,7 +44,7 @@ Using an archive extracting program, such as 7zip or WinRAR, extract the files t
 [Video Troubleshooting](#video-troubleshooting)
 ======
 Some computers may have problems with video playback due to known issues in recent Nvidia GPU drivers. The audio will play but the screen will remain black.
-This affects typically older VNs that do not rely on middleware to render videos, such as H2O. This can possibly be fixed by installing the K-Lite codec pack, but we have not been able to get that working either. Hence, we have a work around. This works for anyone who has an integrated GPU (part of your CPU).
+This affects typically older VNs that do not rely on middleware to render videos, such as H2O. This can possibly be fixed by installing the `K-Lite Codec Pack`, but we have not been able to get that working either. Hence, we have a work around. This works for anyone who has an integrated GPU (part of your CPU).
 
 **If you have determined that you are experiencing this issue**, refer to the instructions below (Windows 11, this also applies to Windows 10):
 
@@ -58,6 +58,7 @@ This affects typically older VNs that do not rely on middleware to render videos
 | ![Editing a markdown file for a talk](https://i.imgur.com/14bOwVf.png) | Look for `Ethornell - Buriko General Interpreter ver 1.xx` in the list of programs here, click on it, then select `Options`. |
 | ![Editing a markdown file for a talk](https://i.imgur.com/DSCV4ID.png) | Check `Power Saving` to switch the program to use your integrated GPU only, then `save`. |
 
+This is not a definitive solution as some computers do not have integrated graphics, such as many Ryzen CPUs.
 
 [Studio Frisay](#studio-frisay)
 ------
