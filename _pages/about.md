@@ -43,7 +43,9 @@ Using an archive extracting program, such as 7zip or WinRAR, extract the files t
 
 [Video Troubleshooting](#video-troubleshooting)
 ======
-Some computers may have problems with video playback. The audio will play but the screen will remain black.
+The minor issue: If playback does not occur, as in video just skips and goes into the next scene, install [K-Lite Codec Pack](https://codecguide.com/download_kl.htm). You should only need the "Basic" version.
+
+The MAJOR issue: Some computers may have problems with video playback. The audio will play but the screen will remain black.
 This affects typically older VNs that do not rely on middleware to render videos, such as H2O. This can possibly be fixed by installing the `K-Lite Codec Pack`, but we have not been able to get that working either. Hence, we have a work around. This works for anyone who has an integrated GPU (part of your CPU).
 
 [A more verbose explanation](https://gist.github.com/nReus/51b57fca0c9a271d9f0d7c57c11cadf4)
