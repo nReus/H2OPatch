@@ -43,8 +43,20 @@ Using an archive extracting program, such as 7zip or WinRAR, extract the files t
 
 [Video Troubleshooting](#video-troubleshooting)
 ======
-Some computers may have problems with video playback due to known issues in recent Nvidia GPU drivers. The audio will play but the screen will remain black.
+Some computers may have problems with video playback. The audio will play but the screen will remain black.
 This affects typically older VNs that do not rely on middleware to render videos, such as H2O. This can possibly be fixed by installing the `K-Lite Codec Pack`, but we have not been able to get that working either. Hence, we have a work around. This works for anyone who has an integrated GPU (part of your CPU).
+
+<details>
+  <summary>A more verbose explanation</summary>
+
+  ```
+  This is an issue with recent drivers on modern hardware, especially seen on Nvidia GPUs. We haven't tested AMD GPUs since we don't have those. This is likely because the in-built video codec on these GPUs have been broken in some form after a driver update, and the only reason video players like VLC can play these videos using GPU acceleration is because they utilize external third-party codecs that interface graphics hardware differently (like the stuff from K-Lite).
+
+H2O plays videos directly off graphics hardware using those same broken in-built video codecs.
+
+This is an issue that occurs regardless of using Windows 10 or 11.
+  ```
+</details>
 
 **If you have determined that you are experiencing this issue**, refer to the instructions below (Windows 11, this also applies to Windows 10):
 
