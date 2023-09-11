@@ -43,6 +43,8 @@ Using an archive extracting program, such as 7zip or WinRAR, extract the files t
 
 [Video Troubleshooting](#video-troubleshooting)
 ======
+Before fixing issues, please verify how the video plays by seeing the playback behavior right after the first scene, where the background image is greyscale, and before the date card that says "July 3".
+
 The minor issue: If playback does not occur, as in video just skips and goes into the next scene, install [K-Lite Codec Pack](https://codecguide.com/download_kl.htm). You should only need the "Basic" version.
 
 The MAJOR issue: Some computers may have problems with video playback. The audio will play but the screen will remain black.
@@ -63,6 +65,8 @@ This affects typically older VNs that do not rely on middleware to render videos
 | ![Editing a markdown file for a talk](https://i.imgur.com/DSCV4ID.png) | Check `Power Saving` to switch the program to use your integrated GPU only, then `save`. |
 
 This is not a definitive solution as some computers do not have integrated graphics, such as many Ryzen CPUs.
+
+Aside from these methods, you can also attempt a driver rollback to somewhere around October 2022 for Nvidia cards particularly.
 
 [Studio Frisay](#studio-frisay)
 ------
